@@ -919,7 +919,7 @@ footer .maps p{
         margin-left: 70%;
     }
     nav{
-        position: relative;
+        position: fixed;
     }
     nav ul {
         position: fixed;
